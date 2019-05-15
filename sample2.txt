@@ -1,0 +1,2 @@
+Hello
+This is just second sample file for Git Demo
